@@ -1,0 +1,8 @@
+C:\Users\hasal\Desktop\C# labs\C# lab 04_Q1_3\C# lab 04_Q1_3\bin\Debug\C# lab 04_Q1_3.exe.config
+C:\Users\hasal\Desktop\C# labs\C# lab 04_Q1_3\C# lab 04_Q1_3\bin\Debug\C# lab 04_Q1_3.exe
+C:\Users\hasal\Desktop\C# labs\C# lab 04_Q1_3\C# lab 04_Q1_3\bin\Debug\C# lab 04_Q1_3.pdb
+C:\Users\hasal\Desktop\C# labs\C# lab 04_Q1_3\C# lab 04_Q1_3\obj\Debug\C# lab 04_Q1_3.csproj.AssemblyReference.cache
+C:\Users\hasal\Desktop\C# labs\C# lab 04_Q1_3\C# lab 04_Q1_3\obj\Debug\C# lab 04_Q1_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasal\Desktop\C# labs\C# lab 04_Q1_3\C# lab 04_Q1_3\obj\Debug\C# lab 04_Q1_3.csproj.CoreCompileInputs.cache
+C:\Users\hasal\Desktop\C# labs\C# lab 04_Q1_3\C# lab 04_Q1_3\obj\Debug\C# lab 04_Q1_3.exe
+C:\Users\hasal\Desktop\C# labs\C# lab 04_Q1_3\C# lab 04_Q1_3\obj\Debug\C# lab 04_Q1_3.pdb
